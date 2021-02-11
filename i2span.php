@@ -3,6 +3,8 @@
 
 /**
  * Plugin Name: i2span
+ * License: GNU General Public License v2 or later
+ *  License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
 
 add_action( 'admin_menu', 'i2spanMenu' );
